@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="110" height="110" viewBox="0 0 110 110">
+  <polygon points="101.872 90.092 10.723 90.092 10.723 39.794 33.511 18.922 45.195 29.479 91.064 29.358 101.872 39.794 101.872 90.092" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <rect x="16.34043" y="48.80489" width="11.40455" height="11.40455" fill="#024b54"/>
+  <rect x="36.03234" y="48.80489" width="11.40455" height="11.40455" fill="#024b54"/>
+  <rect x="36.03234" y="68.4968" width="11.40455" height="21.59547" stroke-width="3" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="16.34043" y="68.4968" width="11.40455" height="11.40455" transform="translate(96.24178 52.15638) rotate(90)" fill="#024b54"/>
+  <polygon points="45.195 29.479 91.064 29.358 101.872 39.794 56.613 39.794 45.195 29.479" fill="#024b54" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <rect x="61.22622" y="60.20944" width="34.00782" height="29.88283" stroke-width="3" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <line x1="61.22622" y1="66.60291" x2="95.23404" y2="66.60291" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line x1="61.22622" y1="72.47525" x2="95.23404" y2="72.47525" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line x1="61.22622" y1="78.34759" x2="95.23404" y2="78.34759" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line x1="61.22622" y1="84.21993" x2="95.23404" y2="84.21993" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line x1="33.51064" y1="18.92206" x2="4.42553" y2="45.53191" fill="#024b54" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line x1="33.51064" y1="18.92206" x2="62.70702" y2="45.30015" fill="#024b54" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M5,97.80963H105" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <polygon points="18.617 32.564 14.281 36.515 14.143 22.92 18.617 22.92 18.617 32.564" fill="#024b54"/>
+</svg>

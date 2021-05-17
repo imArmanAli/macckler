@@ -1,0 +1,9 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="110" height="110" viewBox="0 0 110 110">
+  <circle cx="26.38144" cy="41.77969" r="20.75165" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line x1="26.38144" y1="54.24554" x2="26.38144" y2="90.4359" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <line x1="75.31386" y1="54.24554" x2="75.31386" y2="90.4359" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <polygon points="75.314 41.156 45.128 72.012 105.5 72.012 75.314 41.156" fill="#024b54"/>
+  <polygon points="75.314 27.805 49.191 54.507 101.436 54.507 75.314 27.805" fill="#024b54"/>
+  <polygon points="75.314 18.473 58.781 35.373 91.847 35.373 75.314 18.473" fill="#024b54"/>
+  <path d="M5,97.80963H105" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+</svg>

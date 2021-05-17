@@ -1,0 +1,19 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="110" height="110" viewBox="0 0 110 110">
+  <path d="M5,97.80963H105" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <g>
+    <polygon points="54.967 92.855 8.166 92.855 8.166 38.189 31.566 21.583 54.967 38.189 54.967 92.855" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <rect x="14.62473" y="66.04407" width="14.28522" height="26.81137" stroke-width="3" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <rect x="34.9944" y="66.04407" width="14.28522" height="16.1811" fill="#024b54"/>
+    <rect x="34.9944" y="44.08715" width="14.28522" height="16.1811" fill="#024b54"/>
+    <rect x="14.62473" y="44.08715" width="14.28522" height="16.1811" fill="#024b54"/>
+    <polygon points="101.769 92.855 54.967 92.855 54.967 38.189 78.368 21.583 101.769 38.189 101.769 92.855" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <rect x="61.42647" y="66.04407" width="14.28522" height="26.81137" stroke-width="3" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <rect x="81.79614" y="66.04407" width="14.28522" height="16.1811" fill="#024b54"/>
+    <rect x="81.79614" y="44.08715" width="14.28522" height="16.1811" fill="#024b54"/>
+    <rect x="61.42647" y="44.08715" width="14.28522" height="16.1811" fill="#024b54"/>
+    <line x1="17.02762" y1="31.89992" x2="4.6383" y2="40.75834" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="92.97238" y1="31.89992" x2="105.3617" y2="40.75834" fill="none" stroke="#024b54" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polygon points="15.307 33.13 10.833 36.329 10.833 23.453 15.307 23.453 15.307 33.13" fill="#024b54"/>
+    <polygon points="62.088 33.13 57.613 36.329 57.613 23.453 62.088 23.453 62.088 33.13" fill="#024b54"/>
+  </g>
+</svg>
